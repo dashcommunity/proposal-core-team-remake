@@ -1,2 +1,2 @@
 # proposal-core-team-remake
-core-team-remake
+Salary for dash core team

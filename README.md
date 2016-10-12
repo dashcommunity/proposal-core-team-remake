@@ -1,2 +1,2 @@
-# test-2016-10-11
-a-test-proposal
+# core-team-remake
+core-team-remake

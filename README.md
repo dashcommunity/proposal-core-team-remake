@@ -1,2 +1,2 @@
-# core-team-remake
+# proposal-core-team-remake
 core-team-remake

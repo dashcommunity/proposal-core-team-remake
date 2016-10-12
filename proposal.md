@@ -1,4 +1,4 @@
-# Proposal - Dash Core Salaries
+# Proposal - Core Team (Remake)
 
 Salary for dash core team
 
